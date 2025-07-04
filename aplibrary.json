@@ -1,17 +1,12 @@
 {
-    "name": "IPA Library",
-    "identifier": "xyz.random.ipalibrary",
-    "subtitle": "random's Exclusive IPA Library",
-    "iconURL": "https:\/\/repo.cypwn.xyz\/assets\/images\/cypwn_small.png",
-    "website": "https:\/\/ipa.cypwn.xyz",
-    "sourceURL": "https:\/\/ipa.cypwn.xyz\/cypwn.json",
-    "tintColor": "FFC300",
-    "featuredApps": [
-        "Ed0ardo.CyPwnStore"
-    ],
-    "crypto": {
-        "btc": "bc1qy5xq4xdw4w83gpauxskassck4rwvpe7xdlvtws"
-    },
+  "name": "Gaming Play Store",
+  "identifier": "org.GamingPlayStore.repo-GamingPlay",
+  "sourceURL": "https://github.com/maphin85/ipastore/raw/main/aplibrary.json",
+  "iconURL": "https://github.com/maphin85/Heng/blob/main/gamingply.png",
+  "META": {
+    "repoName": "Gaming Play Store",
+    "repoIcon": "https://github.com/maphin85/Heng/blob/main/gamingply.png"
+  },
     "apps": [
         {
             "name": "SQLiteFlow_5.8.6",
