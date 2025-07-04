@@ -23,6 +23,21 @@
                 "https://ipa.cypwn.xyz/serve/icons/YouTube_20.21.6_YTPlus_5.2b1.png"
             ]
         },
+        {
+            "name": "EeveeSpotify-5.9.5-9.0.36",
+            "bundleIdentifier": "com.hyperobjc.SQLiteFlow-iOS",
+            "developerName": "CyPwn",
+            "version": "5.8.6",
+            "versionDate": "2025-04-30",
+            "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=e96f7aaa5376ec5551b216c78ac5d367",
+            "localizedDescription": "Spotify",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/EeveeSpotify-5.9.5-9.0.36.png",
+            "tintColor": "FFC300",
+            "size": 4194304,
+            "screenshotURLs": [
+                "https://ipa.cypwn.xyz/serve/icons/EeveeSpotify-5.9.5-9.0.36.png"
+            ]
+        },
        
     ]
 }
