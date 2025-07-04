@@ -7,35 +7,920 @@
     "repoName": "Gaming Play Store",
     "repoIcon": "https://github.com/maphin85/Heng/blob/main/gamingply.png"
   },
-    "apps": [
+        "apps": [
         {
-            "name": "YouTube_20.21.6_YTPlus_5.2b1",
+            "name": "SQLiteFlow_5.8.6",
             "bundleIdentifier": "com.hyperobjc.SQLiteFlow-iOS",
-            "developerName": "CyPwn",
+            "developerName": "SQLiteFlow_5.8.6 x CyPwn",
             "version": "5.8.6",
             "versionDate": "2025-06-07",
-            "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=e96f7aaa5376ec5551b216c78ac5d367",
-            "localizedDescription": "YouTube",
-            "iconURL": "https://ipa.cypwn.xyz/serve/icons/YouTube_20.21.6_YTPlus_5.2b1.png",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/SQLiteFlow_5.8.6.ipa",
+            "localizedDescription": "SQLiteFlow 5.8.6",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/SQLiteFlow_5.8.6.png",
             "tintColor": "FFC300",
             "size": 4194304,
             "screenshotURLs": [
-                "https://ipa.cypwn.xyz/serve/icons/YouTube_20.21.6_YTPlus_5.2b1.png"
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/SQLiteFlow_5.8.6\/SQLiteFlow_5.8.6-0.png"
+            ]
+        },
+        {
+            "name": "FileBrowser_Pro_25.6",
+            "bundleIdentifier": "com.stratospherix.filebrowserbiz",
+            "developerName": "FileBrowser_Pro_25.6 x CyPwn",
+            "version": "25.6",
+            "versionDate": "2025-06-07",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/FileBrowser_Pro_25.6.ipa",
+            "localizedDescription": "FileBrowser Pro 25.6",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/FileBrowser_Pro_25.6.png",
+            "tintColor": "FFC300",
+            "size": 28311552,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/FileBrowser_Pro_25.6\/FileBrowser_Pro_25.6-0.png"
+            ]
+        },
+        {
+            "name": "YouTube_20.21.6_YTPlus_5.2b1",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube_20.21.6_YTPlus_5.2b1 x CyPwn",
+            "version": "20.21.6",
+            "versionDate": "2025-06-06",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/YouTube_20.21.6_YTPlus_5.2b1.ipa",
+            "localizedDescription": "YT 20.21.6 + YTPlus 5.2b1 and more",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/YouTube_20.21.6_YTPlus_5.2b1.png",
+            "tintColor": "FFC300",
+            "size": 120586240,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/YouTube_20.21.6_YTPlus_5.2b1\/YouTube_20.21.6_YTPlus_5.2b1-0.png"
+            ]
+        },
+        {
+            "name": "FileBrowser_Pro_25.5",
+            "bundleIdentifier": "com.stratospherix.filebrowserbiz",
+            "developerName": "FileBrowser_Pro_25.5 x CyPwn",
+            "version": "25.5",
+            "versionDate": "2025-06-03",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/FileBrowser_Pro_25.5.ipa",
+            "localizedDescription": "FileBrowser Pro 25.5",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/FileBrowser_Pro_25.5.png",
+            "tintColor": "FFC300",
+            "size": 28311552,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/FileBrowser_Pro_25.5\/FileBrowser_Pro_25.5-0.png"
+            ]
+        },
+        {
+            "name": "Scrcpy_Remote_2.4",
+            "bundleIdentifier": "com.mobile.scrcpy-ios",
+            "developerName": "Scrcpy_Remote_2.4 x CyPwn",
+            "version": "2.4",
+            "versionDate": "2025-05-22",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Scrcpy_Remote_2.4.ipa",
+            "localizedDescription": "scrcpy for iOS.",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Scrcpy_Remote_2.4.png",
+            "tintColor": "FFC300",
+            "size": 9437184,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Scrcpy_Remote_2.4\/Scrcpy_Remote_2.4-0.png"
+            ]
+        },
+        {
+            "name": "True_Skate_1.5.95",
+            "bundleIdentifier": "com.trueaxis.skate",
+            "developerName": "True_Skate_1.5.95 x CyPwn",
+            "version": "1.5.95",
+            "versionDate": "2025-05-20",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/True_Skate_1.5.95.ipa",
+            "localizedDescription": "The ultimate skateboarding sim",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/True_Skate_1.5.95.png",
+            "tintColor": "FFC300",
+            "size": 123731968,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/True_Skate_1.5.95\/True_Skate_1.5.95-0.png"
+            ]
+        },
+        {
+            "name": "FTPManager_8.5.4",
+            "bundleIdentifier": "com.skyjos.ftpmanager",
+            "developerName": "FTPManager_8.5.4 x CyPwn",
+            "version": "8.5.4",
+            "versionDate": "2025-05-20",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/FTPManager_8.5.4.ipa",
+            "localizedDescription": "Fully featured FTP client",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/FTPManager_8.5.4.png",
+            "tintColor": "FFC300",
+            "size": 24117248,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/FTPManager_8.5.4\/FTPManager_8.5.4-0.png"
+            ]
+        },
+        {
+            "name": "Stremio_1.0.1-17",
+            "bundleIdentifier": "com.stremio.one",
+            "developerName": "Stremio_1.0.1-17 x CyPwn",
+            "version": "1.0.1",
+            "versionDate": "2025-05-19",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Stremio_1.0.1-17.ipa",
+            "localizedDescription": "Stremio 1.0.1-17",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Stremio_1.0.1-17.png",
+            "tintColor": "FFC300",
+            "size": 63963136,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Stremio_1.0.1-17\/Stremio_1.0.1-17-0.png"
+            ]
+        },
+        {
+            "name": "Theta_1.5",
+            "bundleIdentifier": "com.burbn.instagram",
+            "developerName": "Theta_1.5 x CyPwn",
+            "version": "380.0.0",
+            "versionDate": "2025-05-18",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Theta_1.5.ipa",
+            "localizedDescription": "Instagram tweak by objc_msgSend",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Theta_1.5.png",
+            "tintColor": "FFC300",
+            "size": 233832448,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Theta_1.5\/Theta_1.5-0.png"
+            ]
+        },
+        {
+            "name": "UniversalPaperclips",
+            "bundleIdentifier": "com.everybodyhouse.paperclipsuniquetest",
+            "developerName": "UniversalPaperclips x CyPwn",
+            "version": "2.1.0",
+            "versionDate": "2025-05-17",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/UniversalPaperclips.ipa",
+            "localizedDescription": "Classic clicker",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/UniversalPaperclips.png",
+            "tintColor": "FFC300",
+            "size": 16777216,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/UniversalPaperclips\/UniversalPaperclips-0.png"
+            ]
+        },
+        {
+            "name": "Pokecut_4.4.2",
+            "bundleIdentifier": "com.seawardhyacinth.pokecut",
+            "developerName": "Pokecut_4.4.2 x CyPwn",
+            "version": "4.4.2",
+            "versionDate": "2025-05-17",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Pokecut_4.4.2.ipa",
+            "localizedDescription": "Pokecut Max for free.",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Pokecut_4.4.2.png",
+            "tintColor": "FFC300",
+            "size": 183500800,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Pokecut_4.4.2\/Pokecut_4.4.2-0.png"
+            ]
+        },
+        {
+            "name": "ProCam_14.7.3",
+            "bundleIdentifier": "gemini.ProCam-2",
+            "developerName": "ProCam_14.7.3 x CyPwn",
+            "version": "14.7.3",
+            "versionDate": "2025-05-16",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/ProCam_14.7.3.ipa",
+            "localizedDescription": "Best premium all-in-one camera app.",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/ProCam_14.7.3.png",
+            "tintColor": "FFC300",
+            "size": 68157440,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/ProCam_14.7.3\/ProCam_14.7.3-0.png"
+            ]
+        },
+        {
+            "name": "maid2_0_7",
+            "bundleIdentifier": "com.danemadsen.maid",
+            "developerName": "maid2_0_7 x CyPwn",
+            "version": "2.0.7",
+            "versionDate": "2025-05-05",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/maid2_0_7.ipa",
+            "localizedDescription": "Cross-platform Flutter ai app",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/maid2_0_7.png",
+            "tintColor": "FFC300",
+            "size": 31457280,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/maid2_0_7\/maid2_0_7-0.png"
+            ]
+        },
+        {
+            "name": "Ignited_1.8.5",
+            "bundleIdentifier": "com.litritt.ignited",
+            "developerName": "Ignited_1.8.5 x CyPwn",
+            "version": "1.8.5",
+            "versionDate": "2025-05-04",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Ignited_1.8.5.ipa",
+            "localizedDescription": "Ignited v1.8.5 for iOS 15",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Ignited_1.8.5.png",
+            "tintColor": "FFC300",
+            "size": 65011712,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Ignited_1.8.5\/Ignited_1.8.5-0.png"
             ]
         },
         {
             "name": "EeveeSpotify-5.9.5-9.0.36",
-            "bundleIdentifier": "com.hyperobjc.SQLiteFlow-iOS",
-            "developerName": "CyPwn",
-            "version": "5.8.6",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "EeveeSpotify-5.9.5-9.0.36 x CyPwn",
+            "version": "9.0.36",
             "versionDate": "2025-04-30",
-            "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=e96f7aaa5376ec5551b216c78ac5d367",
-            "localizedDescription": "Spotify",
-            "iconURL": "https://ipa.cypwn.xyz/serve/icons/EeveeSpotify-5.9.5-9.0.36.png",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/EeveeSpotify-5.9.5-9.0.36.ipa",
+            "localizedDescription": "EeveeSpotify-5.9.5-9.0.36",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/EeveeSpotify-5.9.5-9.0.36.png",
             "tintColor": "FFC300",
-            "size": 4194304,
+            "size": 83886080,
             "screenshotURLs": [
-                "https://ipa.cypwn.xyz/serve/icons/EeveeSpotify-5.9.5-9.0.36.png"
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/EeveeSpotify-5.9.5-9.0.36\/EeveeSpotify-5.9.5-9.0.36-0.png"
+            ]
+        },
+        {
+            "name": "Balatro_1.0.1o",
+            "bundleIdentifier": "org.htf65jud.balatro",
+            "developerName": "Balatro_1.0.1o x CyPwn",
+            "version": "1.0.1o",
+            "versionDate": "2025-04-24",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Balatro_1.0.1o.ipa",
+            "localizedDescription": "Balatro_1.0.1o",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Balatro_1.0.1o.png",
+            "tintColor": "FFC300",
+            "size": 60817408,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Balatro_1.0.1o\/Balatro_1.0.1o-0.png"
+            ]
+        },
+        {
+            "name": "CrazyCattle3D_1.0.0",
+            "bundleIdentifier": "com.nathan.cc3dios",
+            "developerName": "CrazyCattle3D_1.0.0 x CyPwn",
+            "version": "1.0.0",
+            "versionDate": "2025-04-22",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CrazyCattle3D_1.0.0.ipa",
+            "localizedDescription": "Crazy Cattle 3D Battle Royale",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/CrazyCattle3D_1.0.0.png",
+            "tintColor": "FFC300",
+            "size": 58720256,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/CrazyCattle3D_1.0.0\/CrazyCattle3D_1.0.0-0.png"
+            ]
+        },
+        {
+            "name": "Gopeed_1.7.0",
+            "bundleIdentifier": "com.gopeed.gopeed",
+            "developerName": "Gopeed_1.7.0 x CyPwn",
+            "version": "1.7.0",
+            "versionDate": "2025-04-18",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Gopeed_1.7.0.ipa",
+            "localizedDescription": "A modern download manager",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Gopeed_1.7.0.png",
+            "tintColor": "FFC300",
+            "size": 38797312,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Gopeed_1.7.0\/Gopeed_1.7.0-0.png"
+            ]
+        },
+        {
+            "name": "GoCoEdit_22.3",
+            "bundleIdentifier": "com.gogolith.gocoed",
+            "developerName": "GoCoEdit_22.3 x CyPwn",
+            "version": "22.3",
+            "versionDate": "2025-04-11",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GoCoEdit_22.3.ipa",
+            "localizedDescription": "Fast Remote and Local Code Editor",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/GoCoEdit_22.3.png",
+            "tintColor": "FFC300",
+            "size": 14680064,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/GoCoEdit_22.3\/GoCoEdit_22.3-0.png"
+            ]
+        },
+        {
+            "name": "FL_Studio_Mobile_4.7.7_SatellaJailed",
+            "bundleIdentifier": "com.imageline.FLStudioMobileHD",
+            "developerName": "FL_Studio_Mobile_4.7.7_SatellaJailed x CyPwn",
+            "version": "4.7.7",
+            "versionDate": "2025-04-05",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/FL_Studio_Mobile_4.7.7_SatellaJailed.ipa",
+            "localizedDescription": "FL Studio Mobile 4.7.7 Satella",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/FL_Studio_Mobile_4.7.7_SatellaJailed.png",
+            "tintColor": "FFC300",
+            "size": 233832448,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/FL_Studio_Mobile_4.7.7_SatellaJailed\/FL_Studio_Mobile_4.7.7_SatellaJailed-0.png"
+            ]
+        },
+        {
+            "name": "Photomath_8.42.0",
+            "bundleIdentifier": "com.microblink.PhotoMath",
+            "developerName": "Photomath_8.42.0 x CyPwn",
+            "version": "8.42.0",
+            "versionDate": "2025-04-05",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Photomath_8.42.0.ipa",
+            "localizedDescription": "Photomath 8.42.0 Cracked",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Photomath_8.42.0.png",
+            "tintColor": "FFC300",
+            "size": 16777216,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Photomath_8.42.0\/Photomath_8.42.0-0.png"
+            ]
+        },
+        {
+            "name": "iTransmission",
+            "bundleIdentifier": "com.plusmediapps.itransmission",
+            "developerName": "iTransmission x CyPwn",
+            "version": "1.0",
+            "versionDate": "2025-03-31",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/iTransmission.ipa",
+            "localizedDescription": "Another torrent client for iOS.",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/iTransmission.png",
+            "tintColor": "FFC300",
+            "size": 3145728,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/iTransmission\/iTransmission-2.png"
+            ]
+        },
+        {
+            "name": "LumaFusion_3.0.10_iOS_15.0",
+            "bundleIdentifier": "com.luma-touch.LumaFusion",
+            "developerName": "LumaFusion_3.0.10_iOS_15.0 x CyPwn",
+            "version": "3.0.10",
+            "versionDate": "2025-03-28",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/LumaFusion_3.0.10_iOS_15.0.ipa",
+            "localizedDescription": "LumaFusion 3.0.10",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/LumaFusion_3.0.10_iOS_15.0.png",
+            "tintColor": "FFC300",
+            "size": 127926272,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/LumaFusion_3.0.10_iOS_15.0\/LumaFusion_3.0.10_iOS_15.0-0.png"
+            ]
+        },
+        {
+            "name": "CyPwnStore_7.1",
+            "bundleIdentifier": "Ed0ardo.CyPwnStore",
+            "developerName": "CyPwnStore_7.1 x CyPwn",
+            "version": "7.1",
+            "versionDate": "2025-03-16",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CyPwnStore_7.1.ipa",
+            "localizedDescription": "Download CyPwn Debs and Apps easily",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/CyPwnStore_7.1.png",
+            "tintColor": "FFC300",
+            "size": 854,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/CyPwnStore_7.1\/CyPwnStore_7.1-0.png"
+            ]
+        },
+        {
+            "name": "EeveeSpotify-5.8.8-9.0.26",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "EeveeSpotify-5.8.8-9.0.26 x CyPwn",
+            "version": "9.0.26",
+            "versionDate": "2025-03-13",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/EeveeSpotify-5.8.8-9.0.26.ipa",
+            "localizedDescription": "EeveeSpotify-5.8.8-9.0.26",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/EeveeSpotify-5.8.8-9.0.26.png",
+            "tintColor": "FFC300",
+            "size": 83886080,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/EeveeSpotify-5.8.8-9.0.26\/EeveeSpotify-5.8.8-9.0.26-0.png"
+            ]
+        },
+        {
+            "name": "Remoter_Pro_6.2.1",
+            "bundleIdentifier": "com.remoterlabs.remotercomplete",
+            "developerName": "Remoter_Pro_6.2.1 x CyPwn",
+            "version": "6.2.1",
+            "versionDate": "2025-03-13",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Remoter_Pro_6.2.1.ipa",
+            "localizedDescription": "A powerful remote desktop client.",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Remoter_Pro_6.2.1.png",
+            "tintColor": "FFC300",
+            "size": 24117248,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Remoter_Pro_6.2.1\/Remoter_Pro_6.2.1-0.png"
+            ]
+        },
+        {
+            "name": "Screens_4.12.11",
+            "bundleIdentifier": "com.edovia.screens.3.ios",
+            "developerName": "Screens_4.12.11 x CyPwn",
+            "version": "4.12.11",
+            "versionDate": "2025-03-13",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Screens_4.12.11.ipa",
+            "localizedDescription": "Take control of your computers.",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Screens_4.12.11.png",
+            "tintColor": "FFC300",
+            "size": 10485760,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Screens_4.12.11\/Screens_4.12.11-0.png"
+            ]
+        },
+        {
+            "name": "Jump_9.8.0",
+            "bundleIdentifier": "4GU63N96WE.com.p5sys.jumpdesktop",
+            "developerName": "Jump_9.8.0 x CyPwn",
+            "version": "9.8.0",
+            "versionDate": "2025-03-12",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Jump_9.8.0.ipa",
+            "localizedDescription": "RDP and VNC application",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Jump_9.8.0.png",
+            "tintColor": "FFC300",
+            "size": 28311552,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Jump_9.8.0\/Jump_9.8.0-0.png"
+            ]
+        },
+        {
+            "name": "Age_of_History_II_Europe_1.0713",
+            "bundleIdentifier": "age.of.civilizations2.jakowski.lukasz.ios.europe",
+            "developerName": "Age_of_History_II_Europe_1.0713 x CyPwn",
+            "version": "1.0713",
+            "versionDate": "2025-03-12",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Age_of_History_II_Europe_1.0713.ipa",
+            "localizedDescription": "Age of History II Europe",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Age_of_History_II_Europe_1.0713.png",
+            "tintColor": "FFC300",
+            "size": 157286400,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Age_of_History_II_Europe_1.0713\/Age_of_History_II_Europe_1.0713-0.png"
+            ]
+        },
+        {
+            "name": "Gopeed_1.6.10",
+            "bundleIdentifier": "com.gopeed.gopeed",
+            "developerName": "Gopeed_1.6.10 x CyPwn",
+            "version": "1.6.10",
+            "versionDate": "2025-03-11",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Gopeed_1.6.10.ipa",
+            "localizedDescription": "A modern download manager.",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Gopeed_1.6.10.png",
+            "tintColor": "FFC300",
+            "size": 37748736,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Gopeed_1.6.10\/Gopeed_1.6.10-0.png"
+            ]
+        },
+        {
+            "name": "Theta_1_4",
+            "bundleIdentifier": "com.burbn.instagram",
+            "developerName": "Theta_1_4 x CyPwn",
+            "version": "370.0.0",
+            "versionDate": "2025-03-11",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Theta_1_4.ipa",
+            "localizedDescription": "Instagram tweak by objc_msgSend",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Theta_1_4.png",
+            "tintColor": "FFC300",
+            "size": 205520896,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Theta_1_4\/Theta_1_4-0.png"
+            ]
+        },
+        {
+            "name": "Stremio-1.0.1-7",
+            "bundleIdentifier": "com.stremio.one",
+            "developerName": "Stremio-1.0.1-7 x CyPwn",
+            "version": "1.0.1",
+            "versionDate": "2025-02-27",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Stremio-1.0.1-7.ipa",
+            "localizedDescription": "Stremio 1.0.1-7",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Stremio-1.0.1-7.png",
+            "tintColor": "FFC300",
+            "size": 68157440,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Stremio-1.0.1-7\/Stremio-1.0.1-7-0.png"
+            ]
+        },
+        {
+            "name": "fGet_1.5.19_NoAds",
+            "bundleIdentifier": "com.penguinbit.fastdownload",
+            "developerName": "fGet_1.5.19_NoAds x CyPwn",
+            "version": "1.5.19",
+            "versionDate": "2025-02-25",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/fGet_1.5.19_NoAds.ipa",
+            "localizedDescription": "Fast file downloader\/manager",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/fGet_1.5.19_NoAds.png",
+            "tintColor": "FFC300",
+            "size": 13631488,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/fGet_1.5.19_NoAds\/fGet_1.5.19_NoAds-0.png"
+            ]
+        },
+        {
+            "name": "atvTools_1.5.0",
+            "bundleIdentifier": "dev.vodik7.atvtools.atvTools",
+            "developerName": "atvTools_1.5.0 x CyPwn",
+            "version": "1.5.0",
+            "versionDate": "2025-02-25",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/atvTools_1.5.0.ipa",
+            "localizedDescription": "Must-have app for Android\/Google TV",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/atvTools_1.5.0.png",
+            "tintColor": "FFC300",
+            "size": 19922944,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/atvTools_1.5.0\/atvTools_1.5.0-0.png"
+            ]
+        },
+        {
+            "name": "Notepad-_1.0",
+            "bundleIdentifier": "com.meepo.Notepad",
+            "developerName": "Notepad-_1.0 x CyPwn",
+            "version": "1.0",
+            "versionDate": "2025-02-25",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Notepad-_1.0.ipa",
+            "localizedDescription": "A convenient coding notepad for iOS",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Notepad-_1.0.png",
+            "tintColor": "FFC300",
+            "size": 594,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Notepad-_1.0\/Notepad-_1.0-0.png"
+            ]
+        },
+        {
+            "name": "FL_Studio_Mobile_4.7.2_Patched",
+            "bundleIdentifier": "com.imageline.FLStudioMobileHD",
+            "developerName": "FL_Studio_Mobile_4.7.2_Patched x CyPwn",
+            "version": "4.7.2",
+            "versionDate": "2025-02-24",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/FL_Studio_Mobile_4.7.2_Patched.ipa",
+            "localizedDescription": "FL Studio Mobile 4.7.2 w\/ Satella",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/FL_Studio_Mobile_4.7.2_Patched.png",
+            "tintColor": "FFC300",
+            "size": 233832448,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/FL_Studio_Mobile_4.7.2_Patched\/FL_Studio_Mobile_4.7.2_Patched-0.png"
+            ]
+        },
+        {
+            "name": "HollowKnight",
+            "bundleIdentifier": "com.GLESign.HollowKnight",
+            "developerName": "HollowKnight x CyPwn",
+            "version": "1.5.78.11833",
+            "versionDate": "2025-02-02",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/HollowKnight.ipa",
+            "localizedDescription": "iOS port of Hollow Knight. Created by: GLESign",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/HollowKnight.png",
+            "tintColor": "FFC300",
+            "size": 1056964608,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/HollowKnight\/HollowKnight-0.png"
+            ]
+        },
+        {
+            "name": "EeveeSpotify-5.8.6-9.0.14",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "EeveeSpotify-5.8.6-9.0.14 x CyPwn",
+            "version": "9.0.14",
+            "versionDate": "2025-02-02",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/EeveeSpotify-5.8.6-9.0.14.ipa",
+            "localizedDescription": "Spotify Premium for free",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/EeveeSpotify-5.8.6-9.0.14.png",
+            "tintColor": "FFC300",
+            "size": 81788928,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/EeveeSpotify-5.8.6-9.0.14\/EeveeSpotify-5.8.6-9.0.14-0.png"
+            ]
+        },
+        {
+            "name": "Textastic_9.9.3",
+            "bundleIdentifier": "com.textasticapp.textastic-universal",
+            "developerName": "Textastic_9.9.3 x CyPwn",
+            "version": "9.9.3",
+            "versionDate": "2025-01-28",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Textastic_9.9.3.ipa",
+            "localizedDescription": "Advanced code editor for iPhone",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Textastic_9.9.3.png",
+            "tintColor": "FFC300",
+            "size": 8388608,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Textastic_9.9.3\/Textastic_9.9.3-0.png"
+            ]
+        },
+        {
+            "name": "GoCoEdit_22.2",
+            "bundleIdentifier": "com.gogolith.gocoed",
+            "developerName": "GoCoEdit_22.2 x CyPwn",
+            "version": "22.2",
+            "versionDate": "2025-01-28",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GoCoEdit_22.2.ipa",
+            "localizedDescription": "Fast iOS Remote & Local Code Editor",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/GoCoEdit_22.2.png",
+            "tintColor": "FFC300",
+            "size": 14680064,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/GoCoEdit_22.2\/GoCoEdit_22.2-0.png"
+            ]
+        },
+        {
+            "name": "TS.Notes_0.1",
+            "bundleIdentifier": "com.swiftsphere.notes",
+            "developerName": "TS.Notes_0.1 x CyPwn",
+            "version": "0.1",
+            "versionDate": "2025-01-24",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/TS.Notes_0.1.ipa",
+            "localizedDescription": "Simple and intuitive notes app.",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/TS.Notes_0.1.png",
+            "tintColor": "FFC300",
+            "size": 493,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/TS.Notes_0.1\/TS.Notes_0.1-0.png"
+            ]
+        },
+        {
+            "name": "Picsew_3.11.4_Pro",
+            "bundleIdentifier": "com.sugarmo.ScrollClip",
+            "developerName": "Picsew_3.11.4_Pro x CyPwn",
+            "version": "3.11.4",
+            "versionDate": "2025-01-06",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Picsew_3.11.4_Pro.ipa",
+            "localizedDescription": "Screenshot stitching tool",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Picsew_3.11.4_Pro.png",
+            "tintColor": "FFC300",
+            "size": 34603008,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Picsew_3.11.4_Pro\/Picsew_3.11.4_Pro-1.png"
+            ]
+        },
+        {
+            "name": "GoCoEdit_22.1",
+            "bundleIdentifier": "com.gogolith.gocoed",
+            "developerName": "GoCoEdit_22.1 x CyPwn",
+            "version": "22.1",
+            "versionDate": "2024-12-30",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GoCoEdit_22.1.ipa",
+            "localizedDescription": "Nice code editor",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/GoCoEdit_22.1.png",
+            "tintColor": "FFC300",
+            "size": 16777216,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/GoCoEdit_22.1\/GoCoEdit_22.1-0.png"
+            ]
+        },
+        {
+            "name": "iota6.0-13.1.0",
+            "bundleIdentifier": "com.toyopagroup.picaboo",
+            "developerName": "iota6.0-13.1.0 x CyPwn",
+            "version": "13.1.0",
+            "versionDate": "2024-12-30",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/iota6.0-13.1.0.ipa",
+            "localizedDescription": "Read the full description first!",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/iota6.0-13.1.0.png",
+            "tintColor": "FFC300",
+            "size": 190840832,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/iota6.0-13.1.0\/iota6.0-13.1.0-0.png"
+            ]
+        },
+        {
+            "name": "iTorrent",
+            "bundleIdentifier": "com.xitrix.iTorrent2",
+            "developerName": "iTorrent x CyPwn",
+            "version": "2.0.13",
+            "versionDate": "2024-11-25",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/iTorrent.ipa",
+            "localizedDescription": "iTorrent v2.0.13-2 by XITRIX iOS 18",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/iTorrent.png",
+            "tintColor": "FFC300",
+            "size": 6291456,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/iTorrent\/iTorrent-1.png"
+            ]
+        },
+        {
+            "name": "Violyn_1.4.2",
+            "bundleIdentifier": "Lilliana.Violyn",
+            "developerName": "Violyn_1.4.2 x CyPwn",
+            "version": "1.4.2",
+            "versionDate": "2024-11-22",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Violyn_1.4.2.ipa",
+            "localizedDescription": "Search and download from CyDown",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Violyn_1.4.2.png",
+            "tintColor": "FFC300",
+            "size": 1048576,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Violyn_1.4.2\/Violyn_1.4.2-2.png"
+            ]
+        },
+        {
+            "name": "EeveeSpotify-5.8-8.9.90",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "EeveeSpotify-5.8-8.9.90 x CyPwn",
+            "version": "8.9.90",
+            "versionDate": "2024-11-14",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/EeveeSpotify-5.8-8.9.90.ipa",
+            "localizedDescription": "",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/EeveeSpotify-5.8-8.9.90.png",
+            "tintColor": "FFC300",
+            "size": 80740352,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/EeveeSpotify-5.8-8.9.90\/EeveeSpotify-5.8-8.9.90-0.png"
+            ]
+        },
+        {
+            "name": "TransparentIcons_1.7.2",
+            "bundleIdentifier": "com.noahgilmore.transparent-icons",
+            "developerName": "TransparentIcons_1.7.2 x CyPwn",
+            "version": "1.7.2",
+            "versionDate": "2024-10-27",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/TransparentIcons_1.7.2.ipa",
+            "localizedDescription": "Transparent App Icons",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/TransparentIcons_1.7.2.png",
+            "tintColor": "FFC300",
+            "size": 6291456,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/TransparentIcons_1.7.2\/TransparentIcons_1.7.2-0.png"
+            ]
+        },
+        {
+            "name": "CarrotPremium_6.1.3",
+            "bundleIdentifier": "com.grailr.CARROTweather",
+            "developerName": "CarrotPremium_6.1.3 x CyPwn",
+            "version": "6.1.3",
+            "versionDate": "2024-10-05",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CarrotPremium_6.1.3.ipa",
+            "localizedDescription": "Carrot Premium Ultra membership",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/CarrotPremium_6.1.3.png",
+            "tintColor": "FFC300",
+            "size": 104857600,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/CarrotPremium_6.1.3\/CarrotPremium_6.1.3-0.png"
+            ]
+        },
+        {
+            "name": "GeniePro_7.1.2",
+            "bundleIdentifier": "co.appnation.geniechat",
+            "developerName": "GeniePro_7.1.2 x CyPwn",
+            "version": "7.1.2",
+            "versionDate": "2024-10-05",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GeniePro_7.1.2.ipa",
+            "localizedDescription": "Genie Al Chat Pro crack by Blatant",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/GeniePro_7.1.2.png",
+            "tintColor": "FFC300",
+            "size": 59768832,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/GeniePro_7.1.2\/GeniePro_7.1.2-0.png"
+            ]
+        },
+        {
+            "name": "Regram_1.0-b10_351.0.1",
+            "bundleIdentifier": "com.burbn.instagram",
+            "developerName": "Regram_1.0-b10_351.0.1 x CyPwn",
+            "version": "351.0.1",
+            "versionDate": "2024-10-03",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Regram_1.0-b10_351.0.1.ipa",
+            "localizedDescription": "Regram cracked by Sezo",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Regram_1.0-b10_351.0.1.png",
+            "tintColor": "FFC300",
+            "size": 173015040,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Regram_1.0-b10_351.0.1\/Regram_1.0-b10_351.0.1-1.png"
+            ]
+        },
+        {
+            "name": "DuolingoMax_7.37.1",
+            "bundleIdentifier": "com.duolingo.DuolingoMobile",
+            "developerName": "DuolingoMax_7.37.1 x CyPwn",
+            "version": "7.37.1",
+            "versionDate": "2024-09-13",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/DuolingoMax_7.37.1.ipa",
+            "localizedDescription": "Duolingo Max unlocked",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/DuolingoMax_7.37.1.png",
+            "tintColor": "FFC300",
+            "size": 111149056,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/DuolingoMax_7.37.1\/DuolingoMax_7.37.1-0.png"
+            ]
+        },
+        {
+            "name": "Regram_1.0-b10_347.2.5",
+            "bundleIdentifier": "com.burbn.instagram",
+            "developerName": "Regram_1.0-b10_347.2.5 x CyPwn",
+            "version": "347.2.5",
+            "versionDate": "2024-09-05",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Regram_1.0-b10_347.2.5.ipa",
+            "localizedDescription": "Regram cracked by Sezo",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Regram_1.0-b10_347.2.5.png",
+            "tintColor": "FFC300",
+            "size": 158334976,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Regram_1.0-b10_347.2.5\/Regram_1.0-b10_347.2.5-2.png"
+            ]
+        },
+        {
+            "name": "EeveeSpotify-4.9-8.9.68",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "EeveeSpotify-4.9-8.9.68 x CyPwn",
+            "version": "8.9.68",
+            "versionDate": "2024-08-27",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/EeveeSpotify-4.9-8.9.68.ipa",
+            "localizedDescription": "EeveeSpotify-4.9-8.9.68",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/EeveeSpotify-4.9-8.9.68.png",
+            "tintColor": "FFC300",
+            "size": 77594624,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/EeveeSpotify-4.9-8.9.68\/EeveeSpotify-4.9-8.9.68-0.png"
+            ]
+        },
+        {
+            "name": "Alook_Browser_20.1",
+            "bundleIdentifier": "com.ld.TakeBrowser",
+            "developerName": "Alook_Browser_20.1 x CyPwn",
+            "version": "20.1",
+            "versionDate": "2024-08-14",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Alook_Browser_20.1.ipa",
+            "localizedDescription": "Ayy look, a browser!",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Alook_Browser_20.1.png",
+            "tintColor": "FFC300",
+            "size": 11534336,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Alook_Browser_20.1\/Alook_Browser_20.1-0.png"
+            ]
+        },
+        {
+            "name": "WallcraftPro_3.19",
+            "bundleIdentifier": "com.wallpaperscraft.wallpapers",
+            "developerName": "WallcraftPro_3.19 x CyPwn",
+            "version": "3.19",
+            "versionDate": "2024-08-11",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/WallcraftPro_3.19.ipa",
+            "localizedDescription": "Wallcraft Wallpapers Pro unlocked",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/WallcraftPro_3.19.png",
+            "tintColor": "FFC300",
+            "size": 69206016,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/WallcraftPro_3.19\/WallcraftPro_3.19-0.png"
+            ]
+        },
+        {
+            "name": "Phantom_VPN_3.9.6_PhantomReset",
+            "bundleIdentifier": "com.avira.vpn",
+            "developerName": "Phantom_VPN_3.9.6_PhantomReset x CyPwn",
+            "version": "3.9.6",
+            "versionDate": "2024-08-09",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Phantom_VPN_3.9.6_PhantomReset.ipa",
+            "localizedDescription": "Phantom VPN with PhantomReset",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Phantom_VPN_3.9.6_PhantomReset.png",
+            "tintColor": "FFC300",
+            "size": 28311552,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Phantom_VPN_3.9.6_PhantomReset\/Phantom_VPN_3.9.6_PhantomReset-0.png"
+            ]
+        },
+        {
+            "name": "VlogNow_1.82.1_Cracked",
+            "bundleIdentifier": "com.frontrow.vlog",
+            "developerName": "VlogNow_1.82.1_Cracked x CyPwn",
+            "version": "1.82.1",
+            "versionDate": "2024-08-07",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/VlogNow_1.82.1_Cracked.ipa",
+            "localizedDescription": "VlogNow_1.82.1_Cracked",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/VlogNow_1.82.1_Cracked.png",
+            "tintColor": "FFC300",
+            "size": 239075328,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/VlogNow_1.82.1_Cracked\/VlogNow_1.82.1_Cracked-0.png"
+            ]
+        },
+        {
+            "name": "Picsart_25.5.1_Cracked",
+            "bundleIdentifier": "com.picsart.studio",
+            "developerName": "Picsart_25.5.1_Cracked x CyPwn",
+            "version": "25.5.1",
+            "versionDate": "2024-08-07",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Picsart_25.5.1_Cracked.ipa",
+            "localizedDescription": "Picsart_25.5.1_Cracked",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Picsart_25.5.1_Cracked.png",
+            "tintColor": "FFC300",
+            "size": 103809024,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Picsart_25.5.1_Cracked\/Picsart_25.5.1_Cracked-0.png"
+            ]
+        },
+        {
+            "name": "CapCut_12.0_Cracked",
+            "bundleIdentifier": "com.lemon.lvoverseas",
+            "developerName": "CapCut_12.0_Cracked x CyPwn",
+            "version": "12.0",
+            "versionDate": "2024-08-07",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CapCut_12.0_Cracked.ipa",
+            "localizedDescription": "CapCut_12.0_Cracked",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/CapCut_12.0_Cracked.png",
+            "tintColor": "FFC300",
+            "size": 136314880,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/CapCut_12.0_Cracked\/CapCut_12.0_Cracked-0.png"
+            ]
+        },
+        {
+            "name": "Regram_1.0-b8_343.0.0",
+            "bundleIdentifier": "com.burbn.instagram",
+            "developerName": "Regram_1.0-b8_343.0.0 x CyPwn",
+            "version": "343.0.0",
+            "versionDate": "2024-08-05",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Regram_1.0-b8_343.0.0.ipa",
+            "localizedDescription": "Regram 1.0-b8 cracked",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Regram_1.0-b8_343.0.0.png",
+            "tintColor": "FFC300",
+            "size": 159383552,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Regram_1.0-b8_343.0.0\/Regram_1.0-b8_343.0.0-2.png"
             ]
         },
        
