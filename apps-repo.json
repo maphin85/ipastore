@@ -16,7 +16,18 @@
       "version": "20.05.4",
       "versionDate": "2025-06-29T21:36:24Z"
     },
-
+    {
+      "name": "Clash Of Clans-GamingPlay",
+      "bundleIdentifier": "com.supercell.magic",
+      "developerName": "Null's Clan",
+      "iconURL": "https://raw.githubusercontent.com/maphin85/iparepo/refs/heads/main/Clash%20of%20Clan.png",
+      "localizedDescription": "Clash of Clans Mod Unlimited Everything.",
+      "subtitle": "On-device signing application",
+      "downloadURL": "https://github.com/maphin85/iparepo/releases/download/clashofclan/Clash.of.Clans.Mod-17.360.13.ipa",
+      "tintColor": "848ef9",
+      "version": "17.360.13",
+      "versionDate": "2025-06-29T21:36:24Z"
+    }
 
   ],
   "news": [
