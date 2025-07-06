@@ -1,14 +1,14 @@
 {
   "name": "GamingPlayStore",
   "identifier": "kh.crysalis.feather-repo",
-  "iconURL": "https://github.com/maphin85/Heng/blob/main/GamingPaly%20CEG.jpg",
+  "iconURL": "https://raw.githubusercontent.com/maphin85/Heng/refs/heads/main/GamingPaly%20CEG.jpg",
   "website": "https://github.com/maphin85",
   "apps": [
     {
       "name": "YouTube-GamingPlay",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "GamingPlay",
-      "iconURL": "https://i.ibb.co/Vc75synH/YouTube.png",
+      "iconURL": "https://raw.githubusercontent.com/maphin85/iparepo/refs/heads/main/YouTube.png",
       "localizedDescription": "No Ads, Backgroud Play",
       "subtitle": "On-device signing application",
       "downloadURL": "https://github.com/maphin85/AccessPermission/releases/download/youtube/YouTube-20.05.4.No.Ads.No.Expire.ipa",
