@@ -2,7 +2,6 @@
   "name": "GamingPlayStore",
   "identifier": "kh.crysalis.feather-repo",
   "iconURL": "https://github.com/maphin85/Heng/blob/main/GamingPaly%20CEG.jpg",
-  //"website": "https://github.com/maphin85",
   "apps": [
     {
       "name": "YouTube-GamingPlay",
@@ -35,8 +34,7 @@
   "news": [
     {
       "title": "Donate",
-     //"identifier": "feather-donate",
-      //"caption": "Feather is a free project and is not made possible without my sponsors! Feel free to donate, it helps keep me motivated in making new updates for this app, and thank you everyone.",
+     "identifier": "Store-donate",
       "tintColor": "848ef9",
       "imageURL": "https://github.com/khcrysalis/Feather/blob/v1.x/Images/donate.png?raw=true",
       "date": "2025-02-04",
@@ -45,7 +43,7 @@
     },
     {
       "title": "About This App",
-      //"identifier": "feather-about",
+      "identifier": "about",
       "caption": "This mod store contains multiple apps/games from different source if you don't trust any apps/games mod don't use it!",
       "tintColor": "8A28F7",
       "imageURL": "https://media.idownloadblog.com/wp-content/uploads/2024/08/Feather-on-device-signing-UI-app.jpg",
