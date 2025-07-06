@@ -5,15 +5,14 @@
   },
         "apps": [
         {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-            "appUpdateTime": "2025-06-23T16:00:00+0800",
-            "appName": "GBox",
-            "appVersion": "5.7.6",
-            "appImage": "https://gbox.run/Public/appicons/GBox.png",
-            "appPackage": "https://cdn.gbox.run/d/res/GBox_v5.7.6.ipa",
-            "appDescription": "更新内容:\n 1. 优化细节功能\n\n更新方法：\n - 定制版打开GBox官网定制链接，输入udid和之前的兑换码，兑换并安装即可覆盖升级。\n - 自签版打开GBox官网自签链接，上传证书，如果证书一样，可覆盖升级，证书不一样需要删掉旧版GBox，再签名安装。"
-        },
+                 "name": "YouTube-GamingPlay",
+      "version": "187.0",
+      "icon": "https://i.ibb.co/Vc75synH/YouTube.png",
+      "down": "https://github.com/maphin85/AccessPermission/releases/download/youtube/YouTube-20.05.4.No.Ads.No.Expire.ipa",
+      "category": "Tweaked Apps",
+      "bundleID": "com.google.ios.youtube",
+      "appstore": "com.google.ios.youtube"
+    },
         {
             "hide": true,
             "appType": "FILE",
