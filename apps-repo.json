@@ -1,7 +1,7 @@
 {
-  "name": "GamingPlayStore",
-  "identifier": "kh.crysalis.feather-repo",
-  "iconURL": "https://raw.githubusercontent.com/maphin85/Heng/refs/heads/main/GamingPaly%20CEG.jpg",
+  "name": "GamingPlay-Store",
+  "identifier": "kh.GamingPlay.Store",
+  "iconURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/GP-Purple-Logo-256.png",
   "website": "https://github.com/maphin85",
   "apps": [
     {
@@ -33,7 +33,7 @@
   "news": [
     {
       "title": "Telegram Channel",
-      "identifier": "feather-donate",
+      "identifier": "GamingPlay-Telegram",
       "caption": "Subscribe to my Telegram channel to get news updates.",
       "tintColor": "848ef9",
       "imageURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/Telegram-Feather.png",
@@ -43,7 +43,7 @@
     },
     {
       "title": "Follow My Facebook Page",
-      "identifier": "feather-about",
+      "identifier": "GamingPlay-Facebook",
       "caption": "Follow my Facebook page to my Telegram channel to get news updates.",
       "tintColor": "8A28F7",
       "imageURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/GamingPlayPurple.png",
