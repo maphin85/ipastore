@@ -32,19 +32,19 @@
   ],
   "news": [
     {
-      "title": "Donate",
+      "title": "Telegram Channel",
       "identifier": "feather-donate",
-      "caption": "",
+      "caption": "Subscribe to my Telegram channel to get news updates.",
       "tintColor": "848ef9",
-      "imageURL": "https://github.com/khcrysalis/Feather/blob/v1.x/Images/donate.png?raw=true",
+      "imageURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/Telegram-Feather.png",
       "date": "2025-02-04",
-      "url": "https://www.facebook.com/profile.php?id=61571180506425#",
+      "url": "https://t.me/lukgamestore",
       "notify": false
     },
     {
-      "title": "About This App",
+      "title": "Follow My Facebook Page",
       "identifier": "feather-about",
-      "caption": "This mod store contains multiple apps/games from different source if you don't trust any apps/games mod don't use it!",
+      "caption": "Follow my Facebook page to my Telegram channel to get news updates.",
       "tintColor": "8A28F7",
       "imageURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/GamingPlayPurple.png",
       "url": "https://www.facebook.com/profile.php?id=61571180506425#",
