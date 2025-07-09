@@ -101755,8 +101755,8 @@
         },
         {
             "name": "GTA: VC - Definitive VH",
-            "bundleIdentifier": "com.deezer.Deezer",
-            "developerName": "Deezer++iOS15 x CyPwn",
+            "bundleIdentifier": "com.rockstargames.gtavcde",
+            "developerName": "rockstargames",
             "version": "7.15.0",
             "versionDate": "2022-04-09",
             "downloadURL": "https://archive.org/download/gta-vh-ttjb/GTA%3A%20Vice%20City%20_1.72.42919648_VH_TTJB.ipa",
