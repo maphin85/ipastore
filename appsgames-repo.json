@@ -101755,16 +101755,21 @@
         },
         {
             "name": "GTA: VC - Definitive VH",
-            "bundleIdentifier": "com.rockstargames.gtavcde",
-            "developerName": "ThuThuAtJB",
-            "version": "1.72.42919648",
-            "versionDate": "17-12-2023",
+            "bundleIdentifier": "com.deezer.Deezer",
+            "developerName": "Deezer++iOS15 x CyPwn",
+            "version": "7.15.0",
+            "versionDate": "2022-04-09",
             "downloadURL": "https://archive.org/download/gta-vh-ttjb/GTA%3A%20Vice%20City%20_1.72.42919648_VH_TTJB.ipa",
             "localizedDescription": "GTA Vice Remaster",
             "iconURL": "https://ipa.thuthuatjb.com/view/img/GTAVCDE.png",
             "tintColor": "FFC300",
-            "size": 2455898152
+            "size": 32505856,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/assets\/images\/ipalibrary.png"
+            ]
         }
+
+
         
  
     ]
