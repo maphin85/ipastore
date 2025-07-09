@@ -1,0 +1,43 @@
+{
+    "name": "GamingPlay-Store",
+    "identifier": "kh.GamingPlay.Store",
+    "iconURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/GP-Purple-Logo-256.png",
+    "website": "https://github.com/maphin85",
+    "apps": [
+        {
+            "name": "YouTube-GamingPlay",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "GamingPlay",
+            "iconURL": "https://raw.githubusercontent.com/maphin85/iparepo/refs/heads/main/YouTube.png",
+            "localizedDescription": "No Ads, Backgroud Play",
+            "subtitle": "On-device signing application",
+            "downloadURL": "https://github.com/maphin85/iparepo/releases/download/YouTube/YouTube-20.05.4.No.Ads.No.Expire.ipa",
+            "tintColor": "848ef9",
+            "version": "20.05.4",
+            "versionDate": "2025-06-29T21:36:24Z"
+        }
+
+    ],
+    "news": [
+        {
+            "title": "Telegram Channel",
+            "identifier": "GamingPlay-Telegram",
+            "caption": "Subscribe to my Telegram channel to get news updates.",
+            "tintColor": "848ef9",
+            "imageURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/Telegram-Feather.png",
+            "date": "2025-02-04",
+            "url": "https://t.me/lukgamestore",
+            "notify": false
+        },
+        {
+            "title": "Facebook Page",
+            "identifier": "GamingPlay-Facebook",
+            "caption": "Follow my Facebook page to my Telegram channel to get news updates.",
+            "tintColor": "8A28F7",
+            "imageURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/GamingPlayPurple.png",
+            "url": "https://www.facebook.com/profile.php?id=61571180506425#",
+            "date": "2025-02-03",
+            "notify": true
+        }
+    ]
+}
