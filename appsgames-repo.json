@@ -101767,8 +101767,106 @@
             "screenshotURLs": [
                 "https:\/\/ipa.cypwn.xyz\/assets\/images\/ipalibrary.png"
             ]
-        }
-
+        },
+  {
+    "name": "GTA III - Definitive VH",
+    "type": 2,
+    "bundleIdentifier": "com.rockstargames.gta3.de",
+    "version": "1.72.42919648",
+    "versionDate": "2023-12-17",
+    "downloadURL": "https://archive.org/download/gta-vh-ttjb/GTA%20III_1.72.42919648_VH_TTJB.ipa",
+    "localizedDescription": "Features added: Vietnamese localization. Unlocked, no account required. IPA tested and compiled by the TTJB Team.",
+    "iconURL": "https://ipa.thuthuatjb.com/view/img/GTA3DE.png",
+    "size": 1513175995
+  },
+  {
+    "name": "GTA: SA - Definitive VH",
+    "type": 2,
+    "bundleIdentifier": "com.rockstargames.gtasa.de",
+    "version": "1.72.42919648",
+    "versionDate": "2023-12-17",
+    "downloadURL": "https://archive.org/download/gta-vh-ttjb/GTA%3A%20SA_1.72.42919648_VH_TTJB.ipa",
+    "localizedDescription": "Features added: Vietnamese localization. Unlocked, no account required. IPA tested and compiled by the TTJB Team.",
+    "iconURL": "https://ipa.thuthuatjb.com/view/img/GTASADE.png",
+    "size": 2648604233
+  },
+  {
+    "name": "GTA III - Netflix VH",
+    "type": 2,
+    "bundleIdentifier": "com.netflix.NGP.GTAIIIDefinitiveEdition",
+    "version": "1.72.42919648",
+    "versionDate": "2023-12-17",
+    "downloadURL": "https://archive.org/download/gta-trilogy-viet-hoa-ios-ipados-ttjb/GTA%20III_1.72.42919648_1702703807.ipa",
+    "localizedDescription": "Features added: Vietnamese localization. Requires a Netflix subscription to play. IPA tested and compiled by the TTJB Team.",
+    "iconURL": "https://ipa.thuthuatjb.com/view/img/GTA3DEN.png",
+    "size": 1513175995
+  },
+  {
+    "name": "GTA: VC - Netflix VH",
+    "type": 2,
+    "bundleIdentifier": "com.netflix.NGP.GTAVCDefinitiveEdition",
+    "version": "1.72.42919648",
+    "versionDate": "2023-12-17",
+    "downloadURL": "https://archive.org/download/gta-trilogy-viet-hoa-ios-ipados-ttjb/GTA%3A%20Vice%20City_1.72.42919648_1702703370.ipa",
+    "localizedDescription": "Features added: Vietnamese localization. Requires a Netflix subscription to play. IPA tested and compiled by the TTJB Team.",
+    "iconURL": "https://ipa.thuthuatjb.com/view/img/GTAVCDEN.png",
+    "size": 2455898152
+  },
+  {
+    "name": "GTA: SA - Netflix VH",
+    "type": 2,
+    "bundleIdentifier": "com.netflix.NGP.GTASADefinitiveEdition",
+    "version": "1.72.42919648",
+    "versionDate": "2023-12-17",
+    "downloadURL": "https://archive.org/download/gta-trilogy-viet-hoa-ios-ipados-ttjb/GTA%3A%20SA_1.72.42919648_1702699843.ipa",
+    "localizedDescription": "Features added: Vietnamese localization. Requires a Netflix subscription to play. IPA tested and compiled by the TTJB Team.",
+    "iconURL": "https://ipa.thuthuatjb.com/view/img/GTASADEN.png",
+    "size": 2648604233
+  },
+  {
+    "name": "GTA SA VH",
+    "type": 2,
+    "bundleIdentifier": "com.rockstargames.gta3sa",
+    "version": "2.2.14",
+    "versionDate": "2023-12-15",
+    "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/GTA_.SA_2.2.14_VH_TTJB.ipa",
+    "localizedDescription": "Features added: Vietnamese localization. IPA tested and compiled by the TTJB Team.",
+    "iconURL": "https://ipa.thuthuatjb.com/view/img/GTASA.png",
+    "size": 1908410497
+  },
+  {
+    "name": "GTA Vice City VH",
+    "type": 2,
+    "bundleIdentifier": "com.rockstargames.gta3vc",
+    "version": "1.3.13",
+    "versionDate": "2023-12-15",
+    "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/GTA.Vice.City_1.5.6_VH_TTJB.ipa",
+    "localizedDescription": "Features added: Vietnamese localization. IPA tested and compiled by the TTJB Team.",
+    "iconURL": "https://ipa.thuthuatjb.com/view/img/GTAVC.png",
+    "size": 924589971
+  },
+  {
+    "name": "GTA III VH",
+    "type": 2,
+    "bundleIdentifier": "com.rockstargames.gta3ios",
+    "version": "1.3.13",
+    "versionDate": "2023-12-15",
+    "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/GTA.III_1.3.13_VH_TTJB.ipa",
+    "localizedDescription": "Features added: Vietnamese localization. IPA tested and compiled by the TTJB Team.",
+    "iconURL": "https://ipa.thuthuatjb.com/view/img/GTA3.png",
+    "size": 487449664
+  },
+  {
+    "name": "Bully VH",
+    "type": 2,
+    "bundleIdentifier": "com.rockstargames.bully",
+    "version": "1.03.6",
+    "versionDate": "2023-12-15",
+    "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Bully_1.03.6_VH_TTJB.ipa",
+    "localizedDescription": "Features added: Vietnamese localization. To activate, go to Settings and repeatedly tap on Language until Vietnamese appears. IPA tested and compiled by the TTJB Team.",
+    "iconURL": "https://ipa.thuthuatjb.com/view/img/Bully.png",
+    "size": 1994654179
+  }
 
         
  
