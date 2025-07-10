@@ -1,5 +1,5 @@
 {
-    "name": "GamingPlay-Store",
+    "name": "GamingPlay-IPA",
     "identifier": "kh.GamingPlay.Store",
     "iconURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/GP-Purple-Logo-256.png",
     "website": "https://github.com/maphin85",
@@ -176,7 +176,7 @@
             "name": "Car Parking Multiplayer-Mod",
             "bundleIdentifier": "com.olzhas.carparking.multyplayer",
             "developerName": "Olzhas",
-            "iconURL": "https://raw.githubusercontent.com/maphin85/iparepo/refs/heads/main/CarParking.png",
+            "iconURL": "https://raw.githubusercontent.com/maphin85/iparepo/refs/heads/main/CarParking1.png",
             "localizedDescription": "Racing Multiplayer Game",
             "subtitle": "On-device signing application",
             "downloadURL": "https://github.com/maphin85/iparepo/releases/download/Car.Parking/Car.Parking-4.9.2.ipa",
