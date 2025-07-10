@@ -173,6 +173,18 @@
             "versionDate": "2025-07-10T21:36:24Z"
         },
         {
+            "name": "GTA Mod Moto Khmer",
+            "bundleIdentifier": "com.rockstargames.gtasager",
+            "developerName": "Rockstar Game",
+            "iconURL": "https://raw.githubusercontent.com/maphin85/iparepo/refs/heads/main/GTASAModMotoKhmer.png",
+            "localizedDescription": "Advanture & Shoting Game",
+            "subtitle": "On-device signing application",
+            "downloadURL": "https://github.com/maphin85/iparepo/releases/download/Truckers.of.Europe.3/Truckers.of.Europe.3-0.50.4.ipa",
+            "tintColor": "848ef9",
+            "version": "Unknown",
+            "versionDate": "2025-07-10T21:36:24Z"
+        },
+        {
             "name": "Car Parking Multiplayer-Mod",
             "bundleIdentifier": "com.olzhas.carparking.multyplayer",
             "developerName": "Olzhas",
