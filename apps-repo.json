@@ -216,12 +216,22 @@
     ],
     "news": [
         {
+            "title": "Is It Safe?",
+            "identifier": "GamingPlay-Q1",
+            "caption": "Are all the app/game mods in this GamingPlay category safe?\n\nApp/Game mods from this GamingPlay is safe 100% because 95% of it was modded and cracked by me GamingPlay AKA JomromGAMES.",
+            "tintColor": "848ef9",
+            "imageURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/GamingPlaySafeIPA-01.png",
+            "date": "2025-07-11",
+            "url": "https://www.facebook.com/profile.php?id=61571180506425#",
+            "notify": false
+        }
+        {
             "title": "Telegram Channel",
             "identifier": "GamingPlay-Telegram",
             "caption": "Subscribe to my Telegram channel to get news updates.",
             "tintColor": "848ef9",
             "imageURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/Telegram-Feather.png",
-            "date": "2025-02-04",
+            "date": "2025-07-11",
             "url": "https://t.me/lukgamestore",
             "notify": false
         },
@@ -232,7 +242,7 @@
             "tintColor": "8A28F7",
             "imageURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/GamingPlayPurple.png",
             "url": "https://www.facebook.com/profile.php?id=61571180506425#",
-            "date": "2025-02-03",
+            "date": "2025-07-11",
             "notify": true
         }
     ]
