@@ -5,14 +5,14 @@
     "website": "https://github.com/maphin85",
     "news": [
         {
-            "title": "Welcome!",
-            "identifier": "HappyMod-C1",
-            "caption": "Since there is no Happy Mod on iOS, as a user who likes to use mods, I think this is not fair to iOS users, so I decide to collect all of these app/game mods and name this collection as Happy Mod so it will make it a lot easier for you guys to find modded apps/games for iOS.",
-            "tintColor": "848ef9",
-            "imageURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/HappyModPoster-01.png",
-            "date": "2025-07-11",
+            "title": "Is it safe?",
+            "identifier": "HappyMod-C3",
+            "caption": "Are all the app/game mods in this Happy Mod category safe?\n\nAs my experience as a mods user and also an app/game mods developer on iOS in these few years, I've used and played a lot of mods from different sources; nothing bad has happened to me, but for safety, as my recommendation, I think you shouldn't use it if you have something important on your device because if the mod owner wants to steal your information or something important from your device, I think they can.",
+            "tintColor": "8A28F7",
+            "imageURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/HappyModPoster-02.png",
             "url": "https://gamingplay/nolink",
-            "notify": false
+            "date": "2025-07-11",
+            "notify": true
         },
         {
             "title": "Where it come from?",
@@ -25,15 +25,16 @@
             "notify": true
         },
         {
-            "title": "Is it safe?",
-            "identifier": "HappyMod-C3",
-            "caption": "Are all the app/game mods in this Happy Mod category safe?\n\nAs my experience as a mods user and also an app/game mods developer on iOS in these few years, I've used and played a lot of mods from different sources; nothing bad has happened to me, but for safety, as my recommendation, I think you shouldn't use it if you have something important on your device because if the mod owner wants to steal your information or something important from your device, I think they can.",
-            "tintColor": "8A28F7",
-            "imageURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/HappyModPoster-02.png",
-            "url": "https://gamingplay/nolink",
+            "title": "Welcome!",
+            "identifier": "HappyMod-C1",
+            "caption": "Since there is no Happy Mod on iOS, as a user who likes to use mods, I think this is not fair to iOS users, so I decide to collect all of these app/game mods and name this collection as Happy Mod so it will make it a lot easier for you guys to find modded apps/games for iOS.",
+            "tintColor": "848ef9",
+            "imageURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/HappyModPoster-01.png",
             "date": "2025-07-11",
-            "notify": true
+            "url": "https://gamingplay/nolink",
+            "notify": false
         }
+
     ],
     "apps": [
     {
