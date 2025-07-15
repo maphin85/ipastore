@@ -4,7 +4,18 @@
     "iconURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/GP-Purple-Logo-256.png",
     "website": "https://github.com/maphin85",
     "apps": [
-
+        {
+            "name": "GTAIII Definitive",
+            "bundleIdentifier": "com.rockstargames.gta3de",
+            "developerName": "Rockstar Games",
+            "iconURL": "https://raw.githubusercontent.com/maphin85/iparepo/refs/heads/main/GTA3Definitive.png",
+            "localizedDescription": "Remaster Graohic",
+            "subtitle": "Remaster Graohic",
+            "downloadURL": "https://github.com/maphin85/iparepo/releases/download/gta3definitive/GTAIII-Definitive_1.72.ipa",
+            "tintColor": "848ef9",
+            "version": "1.72",
+            "versionDate": "2025-07-10T21:36:24Z"
+        },
         {
             "name": "Mobile Legend-Mod(Updated)",
             "bundleIdentifier": "com.mobile.legends",
