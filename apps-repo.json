@@ -38,6 +38,18 @@
     ],
     "apps": [
         {
+            "name": "CapCut-GamingPlay",
+            "bundleIdentifier": "com.kemon.lvoverseas",
+            "developerName": "ByteDance Pte. Ltd..",
+            "iconURL": "https://raw.githubusercontent.com/maphin85/iparepo/refs/heads/main/CapCut-01.png",
+            "localizedDescription": "No Ads",
+            "subtitle": "On-device signing application",
+            "downloadURL": "https://github.com/maphin85/iparepo/releases/download/capcut/CapCut-5.0.0.ipa",
+            "tintColor": "848ef9",
+            "version": "Unknown",
+            "versionDate": "2025-08-08T21:36:24Z"
+        },
+        {
             "name": "TownShip-Mod",
             "bundleIdentifier": "com.playrix.township",
             "developerName": "Playrix",
