@@ -1,8 +1,8 @@
 {
-  "name": "Feather Repository",
-  "identifier": "kh.crysalis.feather-repo",
-  "iconURL": "https://github.com/khcrysalis/Feather/blob/v1.x/iOS/Resources/Icons/Main/Mac@3x.png?raw=true",
-  "website": "https://github.com/khcrysalis/Feather",
+    "name": "GamingPlay-IPA",
+    "identifier": "kh.GamingPlay.Store",
+    "iconURL": "https://raw.githubusercontent.com/maphin85/images/refs/heads/main/GP-Purple-Logo-256.png",
+    "website": "https://github.com/maphin85",
   "apps": [
     {
       "name": "Feather",
@@ -56,3 +56,4 @@
     }
   ]
 }
+
