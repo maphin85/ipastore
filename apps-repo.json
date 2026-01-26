@@ -5,6 +5,18 @@
     "website": "https://github.com/maphin85",
   "apps": [
         {
+            "name": "8 Ball Pool",
+            "bundleIdentifier": "com.miniclip.8ballpoolmult.",
+            "developerName": "miniclip",
+            "iconURL": "https://raw.githubusercontent.com/maphin85/iparepo/refs/heads/main/8BallPool.png",
+            "localizedDescription": "Long Line, Prediction Line, (Use at Your Own Risk)",
+            "subtitle": "On-device signing application",
+            "downloadURL": "https://github.com/maphin85/iparepo/releases/download/8BallPool/8.Ball.Pool._Hack_56.17.1.ipa",
+            "tintColor": "848ef9",
+            "version": "Unknown",
+            "versionDate": "2026-01-26T21:36:24Z"
+        },
+        {
             "name": "CapCut",
             "bundleIdentifier": "com.kemon.lvoverseas",
             "developerName": "ByteDance Pte. Ltd..",
